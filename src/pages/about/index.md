@@ -2,9 +2,15 @@
 templateKey: about-page
 title: ' How Trumpcare affects 65+ Medicare coverage.'
 ---
-<button type="button">Click Me!</button>
-
 President Trump has has made some **major** changes that have reshaped our system. Not only has he made changes to our healthcare marketplace but also controversial changes to Medicaid. Allowing states to require participants who had coverage to **either work or lose their benefits**. Below we will detail most of the changes and how they affect you. You may want to pay close attention if you have pre-existing conditions.
+
+<div class="call-to-action">
+<center>
+	<a href="pages/form.html" class="btn">
+			Get a Trumpcare Quote for Free Today Only!
+	</a>
+</center>
+</div>
 
 ### Adding Association Health Plans (AHPs)
 
@@ -13,6 +19,14 @@ The AHCA or the American Health Care Act of 2017 removed the individual mandate/
 ### Adding Association Health Plans (AHPs)
 
 The use of Association Health Plans for business and on the private market. Allowing individuals to enroll in plans that reduce cost, by eliminating certain services. Some of the insurance companies services they will eliminate are pregnancy coverage, mental health and drug/alcohol rehab. If you are not in need of any of these services, these plans are affordable alternatives to traditional marketplace plans. Before the AHCA was passed all plans had to cover these benefits. Of course, when they are needed, they are very important. But for a 50 something couple with no mental health or drug and alcohol issues, paying for these mandated benefits would be a waste of money. Another main difference is their is no open enrollment period, so you can enroll in a group association plan any time of the year.
+
+<div class="call-to-action">
+<center>
+	<a href="pages/form.html" class="btn">
+			Get a Trumpcare Quote for Free!
+	</a>
+</center>
+</div>
 
 ### Income limits on Tax Credits
 
@@ -25,3 +39,13 @@ Before the passing of Trumpcare or the AHCA there was no fixed limit to the amou
 ### Give the States more control
 
 Now the State can be granted a special waiver and host their own marketplace with their own defined mandatory benefits. Allowing the States to have more control can lower costs as well as give more specific needs to their residents.
+
+### [Still not sure on how this all affects your current or future Medicare plans? Simply enter your zip code and get a quote.](www.test.com)
+
+<div class="call-to-action">
+<center>
+	<a href="pages/form.html" class="btn">
+			Get Free Trumpcare Quote
+	</a>
+</center>
+</div>
