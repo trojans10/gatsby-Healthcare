@@ -4,6 +4,10 @@ title: ' How Trumpcare affects 65+ Medicare coverage.'
 ---
 President Trump has has made some **major** changes that have reshaped our system. Not only has he made changes to our healthcare marketplace but also controversial changes to Medicaid. Allowing states to require participants who had coverage to **either work or lose their benefits**. Below we will detail most of the changes and how they affect you. You may want to pay close attention if you have pre-existing conditions.
 
+
+
+![](/img/screen-shot-2019-08-06-at-3.47.21-pm.png)
+
 <div class="call-to-action">
 <center>
 	<a href="https://mango.trkpre.com/click/2bqXmLsYxz" class="btn">
@@ -11,6 +15,10 @@ President Trump has has made some **major** changes that have reshaped our syste
 	</a>
 </center>
 </div>
+
+### Discover the changes:
+
+![](/img/trumpcare-cover-v2.jpg)
 
 ### Adding Association Health Plans (AHPs)
 
@@ -43,7 +51,6 @@ Now the State can be granted a special waiver and host their own marketplace wit
 ### [Still not sure on how this affects your current or future Medicare plans? Simply choose your state and enter your zip code to get a quote.](www.test.com)
 
 [![Foo](/img/us-map-colorful-sm.jpg)](https://mango.trkpre.com/click/2bqXmLsYxz)
-
 
 <div class="call-to-action">
 <center>
