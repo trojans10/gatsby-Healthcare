@@ -1,56 +1,40 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Medicare Notice
+image: >-
+  /img/1140-make-most-medicare-aarp.imgcache.revbcb3c39276c4bc480f87811d850b7e7d.jpg
+heading: Affordable health insurance choices for any budget.
+subheading: All of your Medicare Updates in one place!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Find the right health plan today!
+  description: >+
+    Finding an affordable health insurance plan that meets your needs doesn’t
+    have to be difficult. Actually, it should be as easy and seamless as using
+    any website to buy a product. Health Care Market Quotes simplifies the
+    healthcare buying process by connecting you to the right agents for your
+    situation. We strive to provide affordable health coverage options that will
+    meet your needs and budget.
+
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: Health Insurance Plans for Individuals and Families
+  description: >+
+    In life many things are unexpected — like being diagnosed with a serious
+    illness, or a hit and run car accident — your hospital bills can quickly
+    become insurmountable when faced with these medical issues. Health insurance
+    isn’t just about leveraging that financial risk. Your health plan will
+    decide if you can choose the doctor you want for your treatment. Your health
+    insurance plan will decide if you can seek treatment at the best cancer
+    center, as opposed to the facility closest to you. Your health insurance
+    will decide whether you can get a second opinion from a doctor or not. The
+    list goes on, and there are many factors to consider before choosing the
+    right health insurance policy for you and your family.
+
 main:
   heading: Great coffee with no compromises
   description: >
@@ -63,8 +47,11 @@ main:
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: >-
+      /img/1140-make-most-medicare-aarp.imgcache.revbcb3c39276c4bc480f87811d850b7e7d.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: >-
+      /img/1140-make-most-medicare-aarp.imgcache.revbcb3c39276c4bc480f87811d850b7e7d.jpg
 ---
+
