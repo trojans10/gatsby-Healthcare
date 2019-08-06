@@ -1,19 +1,27 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Trumpcare 101
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+<button type="button">Click Me!</button>
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+President Trump has has made some **major** changes that have reshaped our system. Not only has he made changes to our healthcare marketplace but also controversial changes to Medicaid. Allowing states to require participants who had coverage to **either work or lose their benefits**. Below we will detail most of the changes and how they affect you. You may want to pay close attention if you have pre-existing conditions.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Adding Association Health Plans (AHPs)
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The AHCA or the American Health Care Act of 2017 removed the individual mandate/federal tax penalty, so people who were uninsured would not have a fine to pay as of January 1, 2019 to the federal goverenment. Previous to this passing, some families had to pay 2.5% of their gross income each year, if they were uninsured or had a non-qualifying plan. According to the CBO or the congressional budget office projections this will create more uninsured people over the next 10 years.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Adding Association Health Plans (AHPs)
+
+The use of Association Health Plans for business and on the private market. Allowing individuals to enroll in plans that reduce cost, by eliminating certain services. Some of the insurance companies services they will eliminate are pregnancy coverage, mental health and drug/alcohol rehab. If you are not in need of any of these services, these plans are affordable alternatives to traditional marketplace plans. Before the AHCA was passed all plans had to cover these benefits. Of course, when they are needed, they are very important. But for a 50 something couple with no mental health or drug and alcohol issues, paying for these mandated benefits would be a waste of money. Another main difference is their is no open enrollment period, so you can enroll in a group association plan any time of the year.
+
+### Income limits on Tax Credits
+
+For individuals the income limit went from $47,080 to beginning to phase out at $75,000. For families of 4 the maximum income limit went from $97,000 to beginning to phase out at $150,000. Greatly increasing the number of middle-class individuals and families receiving help for their insurance premiums.
+
+### Maximum Tax Credit
+
+Before the passing of Trumpcare or the AHCA there was no fixed limit to the amount of tax credit you could receive. After the passing of the AHCA the credit ranges from $2,000-$14,000 depending on age and size of family. This will lessen the risk of abuse of funds.
+
+### Give the States more control
+
+Now the State can be granted a special waiver and host their own marketplace with their own defined mandatory benefits. Allowing the States to have more control can lower costs as well as give more specific needs to their residents.
