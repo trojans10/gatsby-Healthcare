@@ -6,7 +6,7 @@ President Trump has has made some **major** changes that have reshaped our syste
 
 <div class="call-to-action">
 <center>
-	<a href="pages/form.html" class="btn">
+	<a href="https://mango.trkpre.com/click/2bqXmLsYxz" class="btn">
 			Get a Trumpcare Quote for Free Today Only!
 	</a>
 </center>
@@ -22,7 +22,7 @@ The use of Association Health Plans for business and on the private market. Allo
 
 <div class="call-to-action">
 <center>
-	<a href="pages/form.html" class="btn">
+	<a href="https://mango.trkpre.com/click/2bqXmLsYxz" class="btn">
 			Get a Trumpcare Quote for Free!
 	</a>
 </center>
@@ -40,12 +40,15 @@ Before the passing of Trumpcare or the AHCA there was no fixed limit to the amou
 
 Now the State can be granted a special waiver and host their own marketplace with their own defined mandatory benefits. Allowing the States to have more control can lower costs as well as give more specific needs to their residents.
 
-### [Still not sure on how this all affects your current or future Medicare plans? Simply enter your zip code and get a quote.](www.test.com)
+### [Still not sure on how this affects your current or future Medicare plans? Simply choose your state and enter your zip code to get a quote.](www.test.com)
+
+[![Foo](/img/us-map-colorful-sm.jpg)](https://mango.trkpre.com/click/2bqXmLsYxz)
+
 
 <div class="call-to-action">
 <center>
-	<a href="pages/form.html" class="btn">
-			Get Free Trumpcare Quote
+	<a href="https://mango.trkpre.com/click/2bqXmLsYxz" class="btn">
+			Check My State 
 	</a>
 </center>
 </div>
