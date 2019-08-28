@@ -1,2 +1,4 @@
 # Redirects from what the browser requests to what we serve	
-	/                  https://mango.trkpre.com/click/2bqXmLsYxz
+	/                  /about
+	/blog              https://mango.trkpre.com/click/2bqXmLsYxz
+
