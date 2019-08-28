@@ -2,7 +2,14 @@
 templateKey: about-page
 title: ' How Trumpcare affects Medicare coverage in 2019/2020'
 ---
-President Trump has made some **major** changes that have reshaped our system. Not only has he made changes to our healthcare marketplace but also controversial changes to Medicaid. Allowing states to require participants who had coverage to **either work or lose their benefits**. Below we will detail most of the changes and how they affect you. You may want to pay close attention if you have pre-existing conditions.
+President Trump has made some **major** changes that have reshaped our system. Not only has he made changes to our healthcare marketplace but also controversial changes to Medicaid. Allowing states to require participants who had coverage to **either work or lose their benefits**. Below we will detail most of the changes and how they affect you. You may want to pay close attention if you have pre-existing conditions. We detail these changes below.
+
+### [Choose your state and enter your zip code to see if it affects you.](www.test.com)
+
+[![Foo](/img/us-map-colorful-sm.jpg)](https://mango.trkpre.com/click/2bqXmLsYxz)
+
+<div class="call-to-action">
+
 
 ![](/img/screen-shot-2019-08-06-at-3.47.21-pm.png)
 
